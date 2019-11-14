@@ -13,8 +13,8 @@ namespace RS1_Ispit_2017_06_21_v1.EF
         {
 
         }
-
-       #jndskfjckldscfxlkfmld
+        #test jedan
+        #test dva
         public DbSet<Ucenik> Ucenik { get; set; }
         public DbSet<UpisUOdjeljenje> UpisUOdjeljenje { get; set; }
         public DbSet<Odjeljenje> Odjeljenje { get; set; }
